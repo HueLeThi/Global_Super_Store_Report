@@ -17,13 +17,13 @@ Dự án phân tích dữ liệu bán hàng từ một chuỗi bán lẻ toàn c
 
 - Doanh thu, lợi nhuận, số lượng đơn hàng, tỷ lệ hoàn đơn theo thời gian
 - Hiệu suất bán theo khu vực, quốc gia, phân khúc khách hàng
-  https://github.com/HueLeThi/Global_Super_Store_Report/blob/master/Screenshot%202025-07-08%20151553.png
+  ![Doanh thu](https://github.com/HueLeThi/Global_Super_Store_Report/blob/master/Screenshot%202025-07-08%20151553.png?raw=true)
 - Phân tích hành vi khách hàng theo nhóm (Segment, Region, Category)
-  https://github.com/HueLeThi/Global_Super_Store_Report/blob/master/Screenshot%202025-07-08%20152159.png
+  ![Phân tích khách hàng](https://github.com/HueLeThi/Global_Super_Store_Report/blob/master/Screenshot%202025-07-08%20152159.png?raw=true)
 - Phân tích chỉ số LTV – Customer Lifetime Value
 - Đề xuất chiến lược tối ưu chuyển đổi và tăng trưởng dài hạn
 - Phân tích chi tiết thị trường tiềm năng nhất: United States
-  https://github.com/HueLeThi/Global_Super_Store_Report/blob/master/Screenshot%202025-07-08%20152244.png
+  ![Thị trường United States](https://github.com/HueLeThi/Global_Super_Store_Report/blob/master/Screenshot%202025-07-08%20152244.png?raw=true)
 ---
 
 ## 🛠️ Công cụ sử dụng
