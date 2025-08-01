@@ -32,6 +32,7 @@ Dự án phân tích dữ liệu bán hàng từ một chuỗi bán lẻ toàn c
 - Microsoft Power BI (dashboard & DAX)
 - Excel (kiểm tra dữ liệu ban đầu)
 
+Bạn có thể xem Slide trình chiếu và dashboard tại: https://drive.google.com/drive/folders/1lUlZQtRogLOR9HI--ppNjR1Ty-iHrkIF
 ---
 ## 👤 Tác giả
 
